@@ -62,7 +62,7 @@ def generate_sql_from_dataframe(df):
         '無鉛汽油92': '92無鉛汽油',
         '無鉛汽油95': '95無鉛汽油',
         '無鉛汽油98': '98無鉛汽油',
-        '超級/高級柴油': '超級柴油'
+        '超級/高級柴油': '柴油'
     }
     current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
